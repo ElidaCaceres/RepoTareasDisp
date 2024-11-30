@@ -1,4 +1,2 @@
-Lunch Tray Practice Problem - Solution Code
-==================================
+![Navegacion](https://github.com/user-attachments/assets/61484ec6-84f0-4454-915e-d146b89251a3)
 
-Solution code for the Jetpack Compose Navigation practice problems
